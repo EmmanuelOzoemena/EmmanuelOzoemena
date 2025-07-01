@@ -20,6 +20,6 @@ Feel free to explore my projects, suggest improvements, or connect for potential
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EmmanuelOzoemena-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelozo/)  
-
+[![X (Twitter)](https://img.shields.io/badge/X-@Emmanuel_Oz1-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Emmanuel_Oz1)
 
 
