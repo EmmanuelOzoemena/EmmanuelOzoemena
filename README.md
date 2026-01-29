@@ -6,7 +6,7 @@ I am proficient in modern frontend technologies including:
 
 - Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
 
-- Frameworks/Libraries: React.js, Next.js, Tailwind CSS, Bootstrap
+- Frameworks/Libraries: React.js, Next.js, SASS, Tailwind CSS, Bootstrap
 
 - Tools: Git & GitHub, Figma
 
